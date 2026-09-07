@@ -1,0 +1,10 @@
+[project]
+name = "chia-loops-example"
+version = "0.1.0"
+description = "Learning examples for CHIA distributed workflows and Ray resource scheduling"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+
+dependencies = [
+    "chialoops",
+]
