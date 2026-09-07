@@ -1,0 +1,5 @@
+2026-09-06 10:00:01 INFO Server started on 192.168.1.10
+2026-09-06 10:01:14 INFO User connected from 192.168.1.20
+2026-09-06 10:02:30 WARNING High memory usage detected
+2026-09-06 10:03:42 ERROR Database connection failed from 10.0.0.5
+2026-09-06 10:04:10 INFO Database connection restored

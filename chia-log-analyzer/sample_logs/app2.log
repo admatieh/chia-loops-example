@@ -1,0 +1,6 @@
+2026-09-06 11:00:01 INFO API service started
+2026-09-06 11:01:23 INFO Request received from 172.16.0.15
+2026-09-06 11:01:24 INFO Request received from 172.16.0.15
+2026-09-06 11:02:11 WARNING Slow response detected
+2026-09-06 11:03:51 ERROR Request failed for 172.16.0.22
+2026-09-06 11:04:02 ERROR Request failed for 172.16.0.22
